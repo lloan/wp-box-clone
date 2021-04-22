@@ -1,2 +1,2 @@
 # wp-box-clone
-A Vagrant box for working with WordPress
+A vagrant box for working with WordPress

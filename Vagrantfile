@@ -16,7 +16,7 @@ Vagrant.configure("2") do |config|
     config.hostsupdater.aliases = ["local.lloan.com"]
 
     config.vm.provider "virtualbox" do |v|
-        v.memory = 8192
+        v.memory = 4096
         v.cpus = 4
         v.name = "WPBOX"
     end
